@@ -1,0 +1,23 @@
+{
+    "name": "Pumpy Token",
+    "website": "https://pumpy.farm",
+    "source_code": "https://github.com/Pumpy-farm",
+    "description": "Pumpy.farm is autocompounder and yield aggregator",
+    "research": "https://docs.pumpy.farm/",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/pumpyfarm"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/pumpyfarm"
+        }
+    ],
+    "explorer": "https://bscscan.com/address/0x8d4FBB3AC63bf33851dCE80D63613Df1A515BC00",
+    "type": "BEP20",
+    "symbol": "PMP",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x8d4FBB3AC63bf33851dCE80D63613Df1A515BC00"
+}
